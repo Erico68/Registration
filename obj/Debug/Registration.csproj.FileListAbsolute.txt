@@ -1,0 +1,11 @@
+C:\Asp projects\Registration\Registration\bin\Debug\Registration.exe.config
+C:\Asp projects\Registration\Registration\bin\Debug\Registration.exe
+C:\Asp projects\Registration\Registration\bin\Debug\Registration.pdb
+C:\Asp projects\Registration\Registration\obj\Debug\Registration.csproj.AssemblyReference.cache
+C:\Asp projects\Registration\Registration\obj\Debug\Registration.csproj.SuggestedBindingRedirects.cache
+C:\Asp projects\Registration\Registration\obj\Debug\Registration.Form1.resources
+C:\Asp projects\Registration\Registration\obj\Debug\Registration.Properties.Resources.resources
+C:\Asp projects\Registration\Registration\obj\Debug\Registration.csproj.GenerateResource.cache
+C:\Asp projects\Registration\Registration\obj\Debug\Registration.csproj.CoreCompileInputs.cache
+C:\Asp projects\Registration\Registration\obj\Debug\Registration.exe
+C:\Asp projects\Registration\Registration\obj\Debug\Registration.pdb
